@@ -1,0 +1,5 @@
+birthday_person = input("Name: ").strip().title()
+print("Happy Birthday to you")
+print("Happy Birthday to you")
+print("Happy Birthday dear " + birthday_person)
+print("Happy Birthday to you")
